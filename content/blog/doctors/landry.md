@@ -15,15 +15,15 @@ Dr. Landry is a private doctor.
 * 1 respondent said Dr Landry never mentioned <strong>fertility preservation</strong>; another says they didn't feel pressured to pursue it, but wasn't fully informed about the options, either; another said it was brought up but wasn't pushed. 
 * 2 respondents reported <strong>not needing a dysphoria diagnosis</strong>. 
 * 1 respondent reported that the <strong>cost</strong> of the initial appointment was $295, then $195 for the check-up for the first month, and then later appointments were $75. 
-* 1 respondent reported that Dr. Landry brought up <strong>surgeries</strong> and asked if he wanted a referral. He was also given a list of psychologists for a referral for top surgery. 
+* 1 respondent reported that Dr. Landry brought up <strong>surgeries</strong> and asked if they wanted a referral. They were also given a list of psychologists for a referral for top surgery. 
 
 ## Prescription Practices
-* 1 respondent started at 5g T gel, then switched to injections with 0.2mL delastryl, and increased to 0.3mL delastryl.
-* 1 respondent said injections and pills were mentioned as options (for estrogen), and they was advised to take them sublingually.
-* 1 respondent started at 2mg for the first month, then 5mg for the next 11 months, then moved to injections after one year, at a dose of 0.2mL intramuscularly.
-* 1 respondent specifically asked to start at a lower dose, and started on 25mg T gel for three to four weeks, increased to 50mg for three months, and then got switched to injections.
+* 1 respondent started at 5g testosterone **gel**, then switched to **injections** with 0.2mL delastryl, and increased to 0.3mL delastryl.
+* 1 respondent said **injections and pills** were mentioned as options (for estrogen), and they was advised to take them sublingually.
+* 1 respondent started at 2mg of estradiol **pills** for the first month, then 5mg for the next 11 months, then moved to **intramuscular injections** after one year at a dose of 0.2mL.
+* 1 respondent specifically asked to start at a lower dose, and started on 25mg testosterone **gel** for three to four weeks, increased to 50mg for three months, and then got switched to **injections**.
 * 1 respondent said Dr. Landry was aiming for a hormonal range of between 1200 to 2200 pmol/L, but would adjust based on the patient's comfort.
-* 1 respondent started at 0.2mg with subcutaneous injections, and increased to 0.4mg over a period of 5 months.
+* 1 respondent started at 0.2mg with **subcutaneous injections**, and increased to 0.4mg over a period of 5 months.
 
 ## Monitoring
 * 3 respondents said they received <strong>blood tests every 2 months</strong> or more frequently when beginning HRT.
