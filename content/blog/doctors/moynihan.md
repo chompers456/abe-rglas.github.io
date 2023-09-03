@@ -13,8 +13,8 @@ template = "page.html"
 * 1 respondent was asked for how long they were trans, and then for their transition goals.
 * 1 respondent said <strong>fertility treatment was not discussed</strong> with them.
 ## Prescription Practices
-* 1 respondent wanted to start on a low dose, and took 2.5 grams of testosterone gel, which has not changed.
+* 1 respondent wanted to start on a low dose, and took 2.5 grams of testosterone **gel**, which has not changed.
 ## Monitoring
 * 1 respondent said their doctor checked their levels <strong>every 3 to 4 months</strong>.
 ## Data
- 1 respondent has seen Dr. Moynihan. The most recent experience with Dr. Landry is summer 2023. 
+ 1 respondent has seen Dr. Moynihan. 
