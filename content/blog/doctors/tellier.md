@@ -20,6 +20,6 @@ template = "page.html"
 
 ## Monitoring
 * 1 respondent said the doctor continued with breast exams
-* 1 repsondent said the doctor made comments about how her thigh looks and how she was developing 
+* 1 repsondent said the doctor made comments about how their thigh looked and how they was developing 
 
 ## Data
