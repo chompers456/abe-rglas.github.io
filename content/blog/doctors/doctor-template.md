@@ -10,3 +10,4 @@ template = "page.html"
 ## Prescription Practices
 ## Monitoring
 ## Data
+*number* respondents have seen *doctor name*. The most recent experience with *doctor name* is *season year*.
