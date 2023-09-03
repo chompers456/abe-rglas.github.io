@@ -10,10 +10,8 @@ Dr. Côté is not a private doctor (everything is covered by RAMQ).
 [Urban Medical Clinic of Quartier Latin](@/blog/clinics/urbain.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
-One patient reported that a letter from a psychologist was needed for a prescription. The first appointment included a blood test, and then the patient recieved the prescription on the second appointment. 
+* 1 respondent said a **letter from a psychologist was needed**.
+* 1 respondent said it took **2 appointments** to get a prescription.
 ## Prescription Practices
-According to what survey and interview respondents have reported -
-
-Patient One:
-* Started with gel, at a dose of 1.5 grams per day, and increased to 7.5 grams per day.
+* 1 respondent started with gel, at a dose of 1.5 grams per day, and increased to 7.5 grams per day.
 ## Monitoring
