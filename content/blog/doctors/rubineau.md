@@ -8,22 +8,20 @@ template = "page.html"
  
 ## Associated Clinic
 [Concordia Health Services](@/blog/clinics/concordia.md)
-## Attitude of Doctor
 ## Pre-Prescription Requirements
-Respondent One:
-* They **did not need a gender dysphoria diagnosis**.
-*  Dr. Rubineau didn't fully discuss fertility preservation - she said it was insanely expensive.
-* They signed an informed consent sheet, but didn't feel that the information was fully explained.
-* They had to get a full panel of blood tests as well as a stool test.
-* Dr. Rubineau discussed HRT-related goals with active listening and wasn't judgemental.
-* Dr. Rubinea described a higher dose of Testosterone as suitable for binary approach, and lower/micro doses as suitable for a nonbinary approach.
-* Dr. Rubineau was open to any method of administration, and let the respondent use gel after they expressed a phobia of injections.
+* 1 respondent **did not need a gender dysphoria diagnosis**.
+* 1 respondent said Dr. Rubineau didn't fully discuss fertility preservation - Dr. Rubineau said it was insanely expensive.
+* 1 respondent signed an informed consent sheet, but didn't feel that the information was fully explained.
+* 1 respondent had to get a full panel of blood tests as well as a stool test.
+* 1 respondent said Dr. Rubineau discussed HRT-related goals with active listening and wasn't judgemental.
+* 1 respondent said Dr. Rubinea described a higher dose of Testosterone as suitable for binary approach, and lower/micro doses as suitable for a nonbinary approach.
+* 1 respondent said Dr. Rubineau was open to any method of administration.
 
 ## Prescription Practices
-Respondent One:
-* They started at taro-Testosterone gel, 5mg pack once a day, and haven't changed.
+* 1 respondent started at 5mg pack once a day of tesosterone gel, which hasn't changed.
 
 ## Monitoring
-Respondent One: 
-* They get blood tests around every 6 months.
+* 1 respondent gets blood tests around every 6 months.
 
+## Data
+* 1 respondent has seen Dr. Rubineau. The most recent experience with Dr. Rubineau is mid 2022. 
