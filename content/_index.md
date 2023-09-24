@@ -9,6 +9,7 @@ title = "HRT In Montreal"
 <div class = "note">
   Note: This website is a work-in-progress! When we get more respondents, we will fill out the table for ease of use. In the meantime, if you'd like to help us, email us at commstpu@gmail.com.
 </div>
+
 | Doctor Name and title | Associated Clinic | Was Dysphoria Documentation Needed? | Number of Appointments Before Prescription | Blood Testing | How to Contact | Number of Respondents | Most Recent Data |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | [Dr. Pierre Côté, general practitioner](blog/doctors/cote) | [Urban Medical Clinic of Quartier Latin](blog/clinics/urbain) | | | | | | | | | 
