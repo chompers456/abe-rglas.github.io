@@ -6,7 +6,7 @@ template = "page.html"
 
 # Dr. Julie Cotton
 ## Associated Clinic
-[Clinic One](...\clinics\clinics-template.md)
+[Faubourgs CLSC](...\clinics\faubourgs.md)
 ## Attitude of Doctor
 ## Pre-Prescription Requirements
 ## Prescription Practices
